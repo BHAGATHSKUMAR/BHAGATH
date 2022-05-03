@@ -5,7 +5,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=)
 <br> -->
 
-## Heroku
+## Railway
 
 Deploy to heroku.
 <p align="center">
