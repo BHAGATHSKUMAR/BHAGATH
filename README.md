@@ -1,6 +1,6 @@
 # af-deploy-script
 
-<!-- ## Railway
+<!-- ## Heroku
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=)
 <br> -->
@@ -9,7 +9,7 @@
 
 Deploy to heroku.
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/BHAGATHSKUMAR/Adv-Auto-Filter-Bot-V2?organization=BHAGATHSKUMAR&organization=BHAGATHSKUMAR">
+<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/af-deploy-script">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
